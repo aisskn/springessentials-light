@@ -1,0 +1,21 @@
+spring:
+  jpa:
+    show-sql: true
+    open-in-view: false
+--- 
+spring:
+  config:
+    activate:
+      on-profile:
+      - prod
+      
+  datasource:
+    url: jdbc:postgresql:f_members
+    username: postgres
+    password: changeme
+
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    
+    

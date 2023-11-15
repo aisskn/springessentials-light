@@ -1,0 +1,15 @@
+server:
+  port: 8083
+
+spring:
+  jpa:
+    show-sql: true
+    
+    open-in-view: false    
+    
+  kafka:
+    bootstrap-servers:
+      - localhost:19092
+      - localhost:19093
+    producer:
+      value-serializer: org.springframework.kafka.support.serializer.JsonSerializer  

@@ -1,0 +1,12 @@
+server:
+  port: 8081
+  
+spring:
+  kafka:
+    bootstrap-servers:
+      - localhost:19092
+    consumer:
+      auto-offset-reset: earliest
+      value-deserializer: org.springframework.kafka.support.serializer.JsonDeserializer   
+      properties:
+        spring.json.trusted.packages: '*'

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9361ae92-aaa2-4149-8214-b5fa616ef4ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../tp1_ConfXML/src/main/java/org/formation/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp1_ConfXML/src/main/java/org/formation/config/JdbcConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp1_ConfXML/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp1_ConfXML/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp1_ConfXML/src/main/java/org/formation/dao/FileDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp1_ConfXML/src/main/java/org/formation/dao/MovieDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp1_ConfXML/src/main/java/org/formation/model/Movie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp1_ConfXML/src/main/java/org/formation/service/MovieLister.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp1_ConfXML/src/test/java/org/formation/service/MovieListerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp1_ConfXML/src/test/resources/movie.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp1_ConfXML/src/test/resources/test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp2_ConfJava/2.2/initbd_pg.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp2_ConfJava/2.2/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp2_ConfJava/2.2/postgres-docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp2_ConfJava/2.2/src/main/java/org/formation/JdbcConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp2_ConfJava/2.2/src/main/java/org/formation/dao/JdbcMovieDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp2_ConfJava/2.2/src/test/java/org/formation/service/MovieListerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp2_ConfJava/2.2/src/test/java/org/formation/service/movie.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp4_SpringData/src/main/java/org/formation/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp4_SpringData/src/main/java/org/formation/model/Document.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp4_SpringData/src/main/java/org/formation/model/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp4_SpringData/src/main/resources/import.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp4_SpringData/src/test/java/org/formation/repository/MemberRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp5_rest/templates/documents.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp5_rest/templates/fragments.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp5_rest/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp5_rest/templates/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp5a_web/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp5a_web/templates/documents.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp5a_web/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp5a_web/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp5a_web/templates/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/DeliveryService/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/DeliveryService/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/DeliveryService/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/DeliveryService/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/DeliveryService/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/DeliveryService/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/DeliveryService/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/DeliveryService/src/main/java/org/formation/DeliveryServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/DeliveryService/src/main/java/org/formation/domain/Livraison.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/DeliveryService/src/main/java/org/formation/domain/LivraisonRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/DeliveryService/src/main/java/org/formation/domain/Livreur.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/DeliveryService/src/main/java/org/formation/domain/Review.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/DeliveryService/src/main/java/org/formation/domain/Status.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/DeliveryService/src/main/java/org/formation/service/ChangeStatusEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/DeliveryService/src/main/java/org/formation/service/DeliveryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/DeliveryService/src/main/java/org/formation/web/DeliveryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/DeliveryService/src/main/java/org/formation/web/Position.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/DeliveryService/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/DeliveryService/src/test/java/org/formation/DeliveryServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/ProductService/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/ProductService/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/ProductService/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/ProductService/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/ProductService/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/ProductService/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/ProductService/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/ProductService/src/main/java/org/formation/ProductServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/ProductService/src/main/java/org/formation/domain/Dimension.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/ProductService/src/main/java/org/formation/domain/Fournisseur.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/ProductService/src/main/java/org/formation/domain/ProductRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/ProductService/src/main/java/org/formation/domain/Produit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/ProductService/src/main/java/org/formation/domain/Ticket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/ProductService/src/main/java/org/formation/domain/TicketRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/ProductService/src/main/java/org/formation/domain/TicketStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/ProductService/src/main/java/org/formation/domain/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/ProductService/src/main/java/org/formation/service/ChangeStatusEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/ProductService/src/main/java/org/formation/service/EventService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/ProductService/src/main/java/org/formation/service/TicketEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/ProductService/src/main/java/org/formation/service/TicketService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/ProductService/src/main/java/org/formation/web/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/ProductService/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/ProductService/src/main/resources/import.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/ProductService/src/test/java/org/formation/ProductServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/ReadyToPickUp.jmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp7_messaging/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp8_Security/Stateless_JWT/src/main/java/org/formation/jwt/JWTConfigurer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp8_Security/Stateless_JWT/src/main/java/org/formation/jwt/JWTFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp8_Security/Stateless_JWT/src/main/java/org/formation/jwt/TokenProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp8_Security/Stateless_JWT/src/main/java/org/formation/jwt/UserJWTController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp8_Security/Stateless_JWT/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp8_Security/Stateless_JWT/src/main/resources/import.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp8_Security/Stateless_JWT/src/main/resources/templates/fournisseurEdit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp8_Security/Stateless_JWT/src/main/resources/templates/fournisseurs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp8_Security/Stateless_JWT/src/main/resources/templates/fragments.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp8_Security/Stateless_JWT/src/main/resources/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp8_Security/Stateless_JWT/src/main/resources/templates/produitEdit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp8_Security/Stateless_JWT/src/main/resources/templates/produits.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp8_Security/Stateless_JWT/src/main/resources/templates/sessions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp8_Security/Stateless_JWT/src/main/resources/users.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp8_Security/Stateless_JWT/src/test/resources/jwt.jmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp8_Security/import.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Data/tp8_Security/oAuth2Member.jmx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Y7kDeS1R47KiP2f9FW5pHzobBJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/DEV/SB training 2/tp4_SpringData"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9361ae92-aaa2-4149-8214-b5fa616ef4ed" name="Changes" comment="" />
+      <created>1699883886659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699883886659</updated>
+    </task>
+    <servers />
+  </component>
+</project>
