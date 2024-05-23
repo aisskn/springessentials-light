@@ -11,9 +11,9 @@ i
 9src/main/java/org/formation/config/JdbcConfiguration.java,5\6\56e92007c89cafe1e86d9b985b26c9d4a6268876
 d
 4src/main/java/org/formation/service/MovieLister.java,9\f\9f916c30f8c415f6affa95ec8b0bf012013b8819
-a
-1src/main/java/org/formation/config/AppConfig.java,6\8\68e9a4af0897f29afb74e77c6e01ba54273494b3
-h
-8src/test/java/org/formation/service/MovieListerTest.java,d\4\d4f4f11f584feffc9b3c2522fb0b5753fc470188
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+h
+8src/test/java/org/formation/service/MovieListerTest.java,d\4\d4f4f11f584feffc9b3c2522fb0b5753fc470188
+a
+1src/main/java/org/formation/config/AppConfig.java,6\8\68e9a4af0897f29afb74e77c6e01ba54273494b3
